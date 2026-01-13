@@ -6,7 +6,7 @@
 Summary:	asa - Lets your class/object say it works like something else
 Name:		perl-asa
 Version:	1.04
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/E/ET/ETHER/asa-%{version}.tar.gz
